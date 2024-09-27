@@ -1,0 +1,3 @@
+This is our Privacy Policy page.
+Our app may collect personal information such as: names, ids, read message content, and other...
+As noted on the Terms of Service page. We and our app are not responsible for any damage caused to the server as the app is still under development.
